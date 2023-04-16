@@ -1,0 +1,9 @@
+vestaboard_api_key = ""
+vestaboard_api_secret = ""
+
+spotify_id = ""
+spotify_secret = ""
+
+openweather_key = ""
+openweather_location = "Westminster,CO,USA"
+openweather_units = "imperial"
